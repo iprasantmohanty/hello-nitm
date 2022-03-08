@@ -1,2 +1,3 @@
 # hello-nitm
-welcome to NITM
+welcome to NIT Meghalaya
+prasant mohanty
